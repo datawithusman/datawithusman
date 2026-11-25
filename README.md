@@ -17,7 +17,6 @@ Based in Saudi Arabia. I build software at the intersection of Python, machine l
 
 | Project | Focus |
 |---|---|
-| [SPAR LLM Evaluation](https://github.com/datawithusman/spar-llm-eval) | LLM classification experiments, evaluation metrics and error analysis |
 | [Telecom Customer Churn](https://github.com/datawithusman/telecom-churn-prediction) | Machine learning pipelines and classification |
 | [CamSort AI](https://github.com/datawithusman/Camsort) | Collaborative multimodal AI hackathon prototype |
 | [QuantTrader Lite](https://github.com/datawithusman/quanttrader-lite) | Python-based financial data analysis and visualization |
